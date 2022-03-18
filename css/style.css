@@ -1,0 +1,39 @@
+.informacoes{
+    width: 50%;
+    float: left;
+    margin-bottom: 15px;
+}
+label{
+    width: 100px; 
+    margin-left: 40px; 
+    bottom: 30px; 
+    position: relative;
+    max-width: 400px
+}
+
+input{ 
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+/*# chama o id presente no arquivo index*/
+#idade{
+    margin-top: 10px;
+    position: relative;
+}
+#email{
+    margin-top: 20px;
+    position: relative;
+    
+}
+#numero{
+    margin-bottom: 20px;
+    position: relative;
+}
+#divemail{
+    width: 48%;
+    margin-top: -30px;
+}
+
+#divnumero{
+    margin-top: -75px;
+}
